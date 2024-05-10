@@ -4,4 +4,4 @@ Utilized command line arguments to open strand info file and dictionary info fil
 
 Created by Folu Taiwo
 
-Utilizes - C, C++
+Utilizes - C
